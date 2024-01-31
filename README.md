@@ -5,3 +5,5 @@ Here are a set of scripts used to extract technology details form website URL. T
 2) filter_url.py - filter the unwanted urls.
 3) wap.py - Execute multiple wappalyzer instances parallaly.
 4) tech_parser.py - Extract information from the wappalyzer output. 
+
+Reference: https://www.thedroptimes.com/open/37075/drupal-usage-in-top-universities-worldwide-progress-report-and-seeking-support 
